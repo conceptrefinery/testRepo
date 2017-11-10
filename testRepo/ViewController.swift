@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         
-        print("No, i've changed my mind") //not sure about this one?
+        print("actually, I changed it back") //not sure about this one?
     }
 
 
